@@ -1,0 +1,266 @@
+[Monday 19th of September 2022 02:17:42 PM] Ошибка: Fail connection to database | Файл: C:\OSPanel\domains\shop.loc\vendor\core\DataBaseConnection.php | Строка: 15
+
+[Monday 19th of September 2022 02:21:22 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 02:32:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 02:32:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 03:03:27 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:06:40 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:07:11 PM] Ошибка: Undefined array key "exerpt" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\products_loop.php | Строка: 10
+
+[Monday 19th of September 2022 03:17:13 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 04:47:14 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:49:07 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:52:48 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:52:53 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 04:54:49 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:13 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:15 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:01:17 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:02:34 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:03:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:03:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:03:29 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:13:21 PM] Ошибка: Undefined array key "choldren" | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 95
+
+[Monday 19th of September 2022 05:15:56 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:15:58 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:19:21 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:20:22 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:20:42 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:38:50 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:39:29 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:41:08 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:55:06 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:56:08 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Monday 19th of September 2022 05:56:11 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:56:12 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop.loc\vendor\core\Router.php | Строка: 92
+
+[Monday 19th of September 2022 05:58:05 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop.loc\app\views\parts\header.php | Строка: 96
+
+[Friday 23rd of September 2022 01:54:35 PM] Ошибка: Cannot access offset of type string on string | Файл: C:\OSPanel\domains\shop\app\views\parts\header.php | Строка: 96
+
+[Friday 23rd of September 2022 01:55:31 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 01:55:31 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 01:55:31 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 01:59:09 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 01:59:09 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:04:23 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:04:23 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:13:18 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:13:18 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:13:20 PM] Ошибка: Undefined array key "[params" | Файл: C:\OSPanel\domains\shop\app\controllers\ProductController.php | Строка: 9
+
+[Friday 23rd of September 2022 02:13:20 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:13:38 PM] Ошибка: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pd.languahe_id' in 'where clause' | Файл: C:\OSPanel\domains\shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Friday 23rd of September 2022 02:13:39 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:14:21 PM] Ошибка: Не найден вид C:\OSPanel\domains\shop/app/views/Product/getlist.php | Файл: C:\OSPanel\domains\shop\vendor\core\View.php | Строка: 54
+
+[Friday 23rd of September 2022 02:14:21 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:14:47 PM] Ошибка: Не найден вид C:\OSPanel\domains\shop/app/views/Product/getlist.php | Файл: C:\OSPanel\domains\shop\vendor\core\View.php | Строка: 54
+
+[Friday 23rd of September 2022 02:14:47 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:21 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:21 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:24 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:24 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:25 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:25 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:15:26 PM] Ошибка: Undefined array key "title" | Файл: C:\OSPanel\domains\shop\app\views\parts\products_loop.php | Строка: 9
+
+[Friday 23rd of September 2022 02:15:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:17:04 PM] Ошибка: Undefined array key "title" | Файл: C:\OSPanel\domains\shop\app\views\parts\products_loop.php | Строка: 9
+
+[Friday 23rd of September 2022 02:17:04 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:19:45 PM] Ошибка: Undefined array key "title" | Файл: C:\OSPanel\domains\shop\app\views\parts\products_loop.php | Строка: 9
+
+[Friday 23rd of September 2022 02:19:45 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:22:11 PM] Ошибка: Undefined array key "title" | Файл: C:\OSPanel\domains\shop\app\views\parts\products_loop.php | Строка: 9
+
+[Friday 23rd of September 2022 02:22:12 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:22:14 PM] Ошибка: Undefined array key "title" | Файл: C:\OSPanel\domains\shop\app\views\parts\products_loop.php | Строка: 9
+
+[Friday 23rd of September 2022 02:22:17 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:22:17 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:45 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:45 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:46 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:53 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:53 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:54 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:54 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:56 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:56 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:57 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:57 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:58 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:58 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:59 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:23:59 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:24:00 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:24:00 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:24:02 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:24:02 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:25:55 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:25:55 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:03 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:03 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:04 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:04 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:05 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:06 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:06 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:06 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:06 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:07 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:07 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:08 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:08 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:08 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:08 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:13 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:13 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:15 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:15 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:18 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:18 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:20 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:20 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:21 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:21 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:22 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:22 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:26:26 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:01 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:01 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:03 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:03 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:11 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:11 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:30 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:30 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:33 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:28:33 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:29:15 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Friday 23rd of September 2022 02:29:15 PM] Ошибка: Страница не найдена | Файл: C:\OSPanel\domains\shop\vendor\core\Router.php | Строка: 92
+
+[Monday 14th of November 2022 07:39:00 PM] Ошибка: Fail connection to database | Файл: D:\OpenServer\domains\shop\vendor\core\DataBaseConnection.php | Строка: 15
+
